@@ -3,7 +3,6 @@ function setup(){
 }
 
 function draw(){
-  eclipse(235, 228, 21)
   rect(150,200,200,200)
   triange(150,200,250,100,350,200)
   fill(21, 235, 60)
